@@ -1,0 +1,6 @@
+{
+    "name": "Tumbleweed Deno",
+    "id": "tumbleweed-deno",
+    "version": "0.0.1",
+    "description": "Install Deno in a Tumbleweed based Dev Container"
+}
