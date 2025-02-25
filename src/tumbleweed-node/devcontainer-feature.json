@@ -1,0 +1,6 @@
+{
+    "name": "Tumbleweed Node",
+    "id": "tumbleweed-node",
+    "version": "0.0.1",
+    "description": "Install Node in a Tumbleweed based Dev Container"
+}
