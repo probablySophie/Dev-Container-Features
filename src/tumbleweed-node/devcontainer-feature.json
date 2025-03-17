@@ -3,4 +3,11 @@
     "id": "tumbleweed-node",
     "version": "0.0.1",
     "description": "Install Node in a Tumbleweed based Dev Container"
+    "options": {
+        "node_version": {
+            "type": "string",
+            "default": "latest",
+            "description": "The version of node to install"
+        }
+    }
 }
