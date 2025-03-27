@@ -1,0 +1,6 @@
+{
+    "name": "Tumbleweed Azure CLI",
+    "id": "tumbleweed-azurecli",
+    "version": "0.0.1",
+    "description": "Install The Azure CLI in a Tumbleweed based Dev Container"
+}
